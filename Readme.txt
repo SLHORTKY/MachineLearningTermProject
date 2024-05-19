@@ -14,3 +14,5 @@ PROJECT : Machine learning term PROJECT
              pip install numpy pandas scikit-learn matplotlib
 
 
+	Github Repo:
+		https://github.com/SLHORTKY/MachineLearningTermProject
