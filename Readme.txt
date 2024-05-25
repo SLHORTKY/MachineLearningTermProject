@@ -4,6 +4,11 @@ PROJECT : Machine learning term PROJECT
         python3.11
         
     Execution:
+	
+	1- Clone repository https://github.com/SLHORTKY/MachineLearningTermProject.git
+	2- include dependencies listed below
+	3 - execute code
+
         REQUIRED DEPENDENCIES:
             -numpy 
             -pandas
@@ -16,3 +21,4 @@ PROJECT : Machine learning term PROJECT
 
 	Github Repo:
 		https://github.com/SLHORTKY/MachineLearningTermProject
+
